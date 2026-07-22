@@ -1,6 +1,6 @@
 # KubeJS Rechiseled
 
-<a href="https://itswiley.github.io/NirvanaBV/"><img src="https://img.shields.io/curseforge/dt/1619436?logo=curseforge&label=&suffix=%20&style=flat&color=242629&labelColor=F16436&logoColor=1C1C1C" alt="CurseForge"></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/kubejs-rechiseled/preview"><img src="https://img.shields.io/curseforge/dt/1619436?logo=curseforge&label=&suffix=%20&style=flat&color=242629&labelColor=F16436&logoColor=1C1C1C" alt="CurseForge"></a>
 <a href="https://modrinth.com/mod/kubejs-rechiseled"><img src="https://img.shields.io/modrinth/dt/kubejs-rechiseled?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5CA424&logoColor=1C1C1C" alt="Modrinth"></a>
 
 **Rechiseled integration for KubeJS.**
